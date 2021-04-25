@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CalendarGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "\"c:\\Sources\\holidays\\differences.csv\" \"c:\\Sources\\holidays\\output\""
+    }
+  }
+}

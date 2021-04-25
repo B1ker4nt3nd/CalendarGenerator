@@ -1,0 +1,15 @@
+year,month,day,IsWorkDay
+2021,1,1,false
+2021,3,15,false
+2021,4,4,false
+2021,4,5,false
+2021,5,1,false
+2021,5,23,false
+2021,5,24,false
+2021,8,20,false
+2021,10,23,false
+2021,11,1,false
+2021,12,11,true
+2021,12,24,false
+2021,12,25,false
+2021,12,26,false
